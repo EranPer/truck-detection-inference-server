@@ -1,4 +1,4 @@
-# truck-detection-inference-server
+# Inference Server for truck detection 
 Inference server for truck detection (waste reduction project) at Code for Israel
 
 **Python Classes**
